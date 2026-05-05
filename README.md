@@ -46,7 +46,7 @@ Also… I really like traveling ✈️
 
 - Frontend: React  
 - Backend: Node.js, NestJS  
-- Database: PostgreSQL, (Prisma <3 )
+- Database: PostgreSQL, (Prisma ♥️ )
 - Others: AWS (learning), REST APIs, Git...
 
 ---
